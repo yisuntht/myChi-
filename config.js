@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: '<3',
     reply: 'Đậu thì đậu mà không đậu thì đậu <33333333',
     mess: 'tao biết mày có thể làm được. Tự tin lên nhó 😘😘',
-    messDesc: 'Chúng ta sẽ cùng học đại học',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'Đừng sợ, đừng chùn bước, tụi tao luôn ở đây hihi',
+    btnAccept: 'Cố lênnn <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/yisuntht
 }
